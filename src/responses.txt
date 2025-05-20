@@ -1,0 +1,25 @@
+## Default Responses ##
+
+This is a response
+# The first ever response
+
+$NAME! You're not gonna believe this!
+# Example response that uses the $NAME variable
+
+I just found $ID marshmallows! Want one?
+# Example response that uses the $ID variable
+
+$NAME! ..$NAME? Are you awake?
+# Example response that uses a variable multiple times
+
+$NAME.u MY DOG DIED LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOO
+# Example response that uses a variable modifier
+
+
+## Community Responses ##
+
+How has your day been going?
+# Suggested by rapter2917 (25178997)
+
+Hi I'm a bot
+# Suggested by dtm_violette_warrior_girl (669239471)
