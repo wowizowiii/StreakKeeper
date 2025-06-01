@@ -15,6 +15,29 @@ $NAME! ..$NAME? Are you awake?
 $NAME.u MY DOG DIED LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOO
 # Example response that uses a variable modifier
 
+## Quotes ##
+
+I present the object of our quest, which will abate mankind's destruction... the legendary Streak.
+# Tendou Alice; Blue Archive, Main Story: Volume 2, Chapter 1, Episode 16
+
+Even if I shut down today, I'll do so with no regrets!
+# Ming; Strinova
+
+## References ##
+
+Have you tried out "Grow a Garden" on ROBLOX?? I'm growing the finest shocked mangos you've ever seen!
+# Reference to TechJedi (669894318)
+
+Have you tried out "Defend the Multiverse" on ROBLOX?? There's this very wise duck there
+# Reference to Shimimi (669312073)
+
+## Misc ##
+
+ș̵͐̌t̷̮̓̑̆r̵͎̤͆͌͌e̸͔̘̳͠ă̵̡͊̄k̵̼̀̈́͜
+# Zalgo
+
+Wait til you hear about my latest game: War 4 Parkour!
+
 
 ## Community Responses ##
 
@@ -22,4 +45,28 @@ How has your day been going?
 # Suggested by rapter2917 (25178997)
 
 Hi I'm a bot
+# Suggested by dtm_violette_warrior_girl (669239471)
+
+Hello $NAME, we need to talk about your car's extended warranty.
+# Suggested by rapter2917 (25178997)
+
+Never gonna give you up, and let you down
+# Suggested by rapter2917 (25178997)
+
+This response is sponsored by MAID: Mellow Lessons.
+# Suggested by rapter2917 (25178997)
+
+How are you?
+# Suggested by -earth and moon ALT 2- (668658265)
+
+Hi, $NAME!
+# Suggested by -earth and moon ALT 2- (668658265)
+
+I want to be a hero!
+# Suggested by Shimimi (669312073)
+
+$NAME, you're the reason we go outside during fire alarms!
+# Suggested by Kaihan Kuhi (670263686)
+
+$NAME! $NAME! I found a scepter!
 # Suggested by dtm_violette_warrior_girl (669239471)
